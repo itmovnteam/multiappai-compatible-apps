@@ -30,7 +30,7 @@
     >
     > API proxy URL: `https://multiappai-api.itmovnteam.com/v1`
     > 
-    > Model list: `model_name` - tên của model AI, có thể add nhiều model để dễ dàng chuyển đổi sử dụng sau đó. Danh sách **`model_name`** có thể xem tại: https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet
+    > Model list: `model_name` - tên của model AI, có thể add nhiều model để dễ dàng chuyển đổi sử dụng sau đó. Danh sách **`model_name`** có thể xem tại [Xem tại đây](https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet)
 
 6. Sau khi config xong bạn sẽ thấy ở khu vực sidebar hiện tên model và có thể bắt đầu sử dụng
 
