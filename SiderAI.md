@@ -40,6 +40,23 @@
    - Hoặc bạn có thể hỏi trực tiếp khi highlight text khi lướt web
    ![image](https://github.com/user-attachments/assets/c37308bd-e488-4f0e-a83f-86b72b7fd6ab)
 
+### III. Tips nâng cao (tạo prompt):
+Trong quá trình bạn sử dụng Sider có những câu hỏi bạn có thể sẽ hỏi đi hỏi lại model AI nhiều lần, điều này khá mất thời gian. Khi đó chúng ta có thể tạo prompt trong Sider để có thể hỏi nhanh các câu hỏi đó chỉ bằng 1 click chuột mà không cần nhập lại câu hỏi nhiều lân. Sau đây mình sẽ ví dụ hướng dẫn tạo một prompt trong Sider mà mình hay sử dụng cho cá nhân mình, các bạn hoàn toàn có thể tự tạo prompt phù hợp với nhu cầu sử dụng riêng của bản thân.
+
+1.  Vào phần **Options** và chọn **Prompts -> New Prompt**
+
+   ![image](https://github.com/user-attachments/assets/661bd68f-bf77-4f30-b24e-6a4386a51732)
+
+2. Config như trong hình
+
+    ![image](https://github.com/user-attachments/assets/15253ca4-3a75-4ebe-851c-26ba71898562)
+
+3. Truy cập một trang web bất kì -> highlight text sau đó pin prompt vừa tạo ra
+
+   ![image](https://github.com/user-attachments/assets/3641f5fd-f490-40dc-bbe3-5b433b1fb0ae)
+   
+   - Sau khi pin bạn sẽ thấy icon **Giải thích** sẽ hiện ra. Khi này bạn chỉ cần click là xong
+   ![image](https://github.com/user-attachments/assets/418d73ea-e99a-4d03-bc9a-50ac72902990)
 
 
 
