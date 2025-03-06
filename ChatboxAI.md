@@ -1,6 +1,6 @@
-**Hướng dẫn Setup API Key cho Chatbox**
+## Hướng dẫn Setup API Key cho Chatbox
 
-- **Tải ứng dụng:** https://chatboxai.app/en
+**Tải ứng dụng:** https://chatboxai.app/en
 
 **Setup & Sử dụng:**
 
@@ -11,24 +11,15 @@
 
     
     ![image](https://github.com/user-attachments/assets/d4e755a6-5872-4ec6-8e92-fec493d77de7)
+   
+    > API host: `https://multiappai-api.itmovnteam.com/v1`
+    >
+    > API Path: `/chat/completions`
+    > 
+    > Model: `model_name` - tên của model AI, có thể add nhiều model để dễ dàng chuyển đổi sử dụng sau đó. Danh sách **`model_name`** có thể xem tại: https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet
+    
+4. Sau khi thiết lập, bạn có thể bắt đầu sử dụng ứng dụng (bạn có thể duyệt web, đọc file, phân tích ảnh,..)
+    
+    ![image](https://github.com/user-attachments/assets/cdffa51d-b6d9-4f78-b47b-8287ebaf7fe8)
+    ![image](https://github.com/user-attachments/assets/70fefdce-b777-48c2-8a31-88683855008d)
 
-    
-    <aside>
-    💡
-    
-    API host:  `https://multiappai-api.itmovnteam.com/v1`
-    
-    API Path:  `/chat/completions`
-    
-    Model: `model_name`
-    **`model_name`**: tên của model AI, có thể add nhiều model để dễ dàng chuyển đổi sử dụng sau đó.
-    
-    Danh sách **`model_name`** có thể xem tại: **** https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet
-    
-    </aside>
-    
-3. Sau khi thiết lập, bạn có thể bắt đầu sử dụng ứng dụng (bạn có thể duyệt web, đọc file, phân tích ảnh,..)
-    
-    ![image.png](attachment:e2e074b2-07a5-48a3-90ef-73954710987a:image.png)
-    
-    ![image.png](attachment:bc72a6c5-c741-467d-b905-9ea652a2a3d8:image.png)
