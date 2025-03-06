@@ -1,4 +1,4 @@
-## Hướng dẫn Setup API Key cho Chatbox
+# Hướng dẫn Setup API Key cho Chatbox
 
 **Tải ứng dụng:** https://chatboxai.app/en
 
