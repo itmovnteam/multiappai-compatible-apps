@@ -51,11 +51,14 @@ Trong quá trình bạn sử dụng Sider có những câu hỏi bạn có thể
 
     ![image](https://github.com/user-attachments/assets/15253ca4-3a75-4ebe-851c-26ba71898562)
 
-3. Truy cập một trang web bất kì -> highlight text sau đó pin prompt vừa tạo ra
+3. Truy cập một trang web bất kì
 
+   - highlight text sau đó pin prompt vừa tạo ra
+     
    ![image](https://github.com/user-attachments/assets/3641f5fd-f490-40dc-bbe3-5b433b1fb0ae)
    
-   - Sau khi pin bạn sẽ thấy icon **Giải thích** sẽ hiện ra. Khi này bạn chỉ cần click là xong
+   - Sau khi pin bạn sẽ thấy icon **Giải thích** sẽ hiện ra. Kể từ đây bất cứ khi nào bạn cần giải thích nghĩa của câu và chữ sang tiếng việt bạn chỉ cần click **Giải thích** là xong
+     
    ![image](https://github.com/user-attachments/assets/418d73ea-e99a-4d03-bc9a-50ac72902990)
 
 
