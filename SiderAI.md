@@ -25,6 +25,13 @@
 
    ![image](https://github.com/user-attachments/assets/981d6013-78bd-483c-8e1a-062ddb9b9da6)
 
+6. Sau khi config xong bạn sẽ thấy ở khu vực sider hiện tên model
+
+   ![image](https://github.com/user-attachments/assets/956401be-9bdc-4c7e-819e-cdf28281ff88)
+
+
+
+
 
 
 
