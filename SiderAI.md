@@ -1,8 +1,9 @@
 # Hướng Dẫn Setup custom API cho SiderAI
 
-**Tải ứng dụng:** [SiderAI - Broswer](https://sider.ai/)
+### I. Tải ứng dụng: 
+[SiderAI - Broswer](https://sider.ai/)
 
-**Setup & Sử dụng:**
+### II. Setup & Sử dụng:
 1. Sau khi tải ứng dụng hay Login bằng tài khoản google để sử dụng.
 
 2. Pin Sider lên thanh công cụ cho dễ thao tác
@@ -31,9 +32,14 @@
     > 
     > Model list: `model_name` - tên của model AI, có thể add nhiều model để dễ dàng chuyển đổi sử dụng sau đó. Danh sách **`model_name`** có thể xem tại: https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet
 
-7. Sau khi config xong bạn sẽ thấy ở khu vực sider hiện tên model
+6. Sau khi config xong bạn sẽ thấy ở khu vực sidebar hiện tên model và có thể bắt đầu sử dụng
 
+   - Bạn có thể hỏi trực tiếp trên sidebar
    ![image](https://github.com/user-attachments/assets/956401be-9bdc-4c7e-819e-cdf28281ff88)
+
+   - Hoặc bạn có thể hỏi trực tiếp khi highlight text khi lướt web
+   ![image](https://github.com/user-attachments/assets/c37308bd-e488-4f0e-a83f-86b72b7fd6ab)
+
 
 
 
