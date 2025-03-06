@@ -41,7 +41,7 @@
    ![image](https://github.com/user-attachments/assets/c37308bd-e488-4f0e-a83f-86b72b7fd6ab)
 
 ### III. Tips nâng cao (tạo prompt):
-Trong quá trình bạn sử dụng Sider có những câu hỏi bạn có thể sẽ hỏi đi hỏi lại model AI nhiều lần, điều này khá mất thời gian. Khi đó chúng ta có thể tạo prompt trong Sider để có thể hỏi nhanh các câu hỏi đó chỉ bằng 1 click chuột mà không cần nhập lại câu hỏi nhiều lân. Sau đây mình sẽ ví dụ hướng dẫn tạo một prompt trong Sider mà mình hay sử dụng cho cá nhân mình, các bạn hoàn toàn có thể tự tạo prompt phù hợp với nhu cầu sử dụng riêng của bản thân.
+Trong quá trình sử dụng Sider, nếu bạn thường xuyên hỏi đi hỏi lại một số câu hỏi, việc tạo prompt sẽ giúp bạn tiết kiệm thời gian. Thay vì nhập lại câu hỏi nhiều lần, bạn chỉ cần một cú click chuột. Sau đây mình sẽ ví dụ tạo một prompt trong Sider mà mình hay sử dụng cho cá nhân mình, các bạn hoàn toàn có thể tự tạo prompt phù hợp với nhu cầu sử dụng riêng của bản thân.
 
 1.  Vào phần **Options** và chọn **Prompts -> New Prompt**
 
