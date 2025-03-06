@@ -7,9 +7,11 @@
 1. Truy cập mục **Settings** trong ứng dụng.
 2. Nhập **API Key** và **Endpoint** (nếu có) theo hướng dẫn trong hình.
     
-    ![image.png](attachment:f6029bbc-a9e3-4e78-8993-a74132ba2de6:image.png)
+    ![image](https://github.com/user-attachments/assets/c0f40d37-a742-4cc1-a7bf-b4868feef3a1)
+
     
-    ![image.png](attachment:2210a310-a4f9-4780-aad3-806039c8ddfa:image.png)
+    ![image](https://github.com/user-attachments/assets/d4e755a6-5872-4ec6-8e92-fec493d77de7)
+
     
     <aside>
     💡
