@@ -29,21 +29,21 @@
 
    ![image](https://github.com/user-attachments/assets/3da25ccc-ed97-4567-8ed0-eece41636d82)
 
-   ![image](https://github.com/user-attachments/assets/c09232f2-41ec-432c-a9f4-f1a030d312e9)
-
-   ![image](https://github.com/user-attachments/assets/981d6013-78bd-483c-8e1a-062ddb9b9da6)
+   ![image](https://github.com/user-attachments/assets/a8f87ccc-156d-40a3-bd4b-bdecf6ca7c89)
 
    - **API Key**: Admin sẽ cung cấp.
    - **API Proxy URL**: `https://multiappai-api.itmovnteam.com/v1`.
-   - **Model List**: Nhập danh sách tên model AI (*`model_name`*). Bạn có thể thêm nhiều model để dễ dàng chuyển đổi khi sử dụng. Danh sách **`model_name`** có thể xem [tại đây](https://multiappai.itmovnteam.com/pages/pricing/pricing#bang-gia-model-chi-tiet).
 
 #### 6. **Sử dụng Sider**
 - Sau khi hoàn tất cấu hình, bạn sẽ thấy tên model hiển thị ở sidebar. Bây giờ bạn có thể bắt đầu sử dụng.
 
    - **Tương tác trực tiếp trên sidebar**:
-     ![image](https://github.com/user-attachments/assets/956401be-9bdc-4c7e-819e-cdf28281ff88)
+     
+     ![image](https://github.com/user-attachments/assets/e567fdc7-50ee-4d04-9a43-7633d96d5ad4)
+
 
    - **Sử dụng khi highlight văn bản trên web**:
+     
      ![image](https://github.com/user-attachments/assets/c37308bd-e488-4f0e-a83f-86b72b7fd6ab)
 
 ---
